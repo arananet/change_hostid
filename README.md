@@ -16,4 +16,4 @@ Example:
 Check if the new hostid has been setup:
 ./hostid
 
-I hope you find this usefull.
+I hope you find this useful.
